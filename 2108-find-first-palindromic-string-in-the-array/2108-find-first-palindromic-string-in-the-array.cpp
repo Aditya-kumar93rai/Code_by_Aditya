@@ -1,0 +1,26 @@
+class Solution {
+public:
+    // Helper function to check palindrome
+    bool isPalindrome(string s) {
+        int left = 0, right = s.size() - 1;
+        
+        while (left < right) {
+            if (s[left] != s[right])
+                return false;
+            left++;
+            right--;
+        }
+        
+        return true;
+    }
+    
+    // Main function
+    string firstPalindrome(vector<string>& words) {
+        for (string word : words) {
+            if (isPalindrome(word)) {
+                return word;
+            }
+        }
+        return "";
+    }
+};
