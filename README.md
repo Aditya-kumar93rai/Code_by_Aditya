@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditya-kumar93rai/Code_by_Aditya/tree/master/0005-longest-palindromic-substring) |
 | [2942-find-words-containing-character](https://github.com/Aditya-kumar93rai/Code_by_Aditya/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
@@ -24,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-kumar93rai/Code_by_Aditya/tree/master/2089-find-target-indices-after-sorting-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditya-kumar93rai/Code_by_Aditya/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditya-kumar93rai/Code_by_Aditya/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditya-kumar93rai/Code_by_Aditya/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
