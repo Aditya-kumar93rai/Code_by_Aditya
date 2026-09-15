@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1550-three-consecutive-odds](https://github.com/Aditya-kumar93rai/Code_by_Aditya/tree/master/1550-three-consecutive-odds) |
 | [2942-find-words-containing-character](https://github.com/Aditya-kumar93rai/Code_by_Aditya/tree/master/2942-find-words-containing-character) |
 ## String
 |  |
